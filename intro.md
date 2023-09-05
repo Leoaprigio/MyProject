@@ -1,6 +1,6 @@
 Atividade Faculdade
 
-- repostirio
+- repositorio
 - clone
 - add
 - commit
